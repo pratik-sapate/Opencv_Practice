@@ -1,5 +1,5 @@
 # Opencv_Practice
 
-*+Requirement+*
+*Requirement*
 - opencv-python
 - numpy
